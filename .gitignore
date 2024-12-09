@@ -1,0 +1,22 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+
+# Output of the go command
+*.out
+
+# Files created by `go mod`
+go.sum
+go.mod~
+
+# Directories
+/vendor/
+.idea/
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
